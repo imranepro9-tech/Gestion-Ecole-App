@@ -1,0 +1,1 @@
+Ce projet consiste en la conception et le développement d'une application de gestion scolaire (Desktop). L'objectif est d'offrir une interface ergonomique permettant aux utilisateurs de gérer efficacement les étudiants, les matières, les enseignants et les notes, tout en assurant le calcul automatique des moyennes et le classement des étudiants.
